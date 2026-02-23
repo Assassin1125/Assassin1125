@@ -1,29 +1,21 @@
-# 👋 Hi, I’m Asmit Roy
+# 👋 Hi, I’m Assassin1125
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=3E8AFF&width=435&lines=Machine-Learning+Developer;Back-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=3E8AFF&width=435&lines=Machine-Learning+Developer;Frontend+Developer+|+Next.js+•+React+•+Vue+|+Clean+UI+Performance+•+SEO)](https://git.io/typing-svg)
 
 <br><br>
 
-I build things — mostly **intelligent systems** and **robust backend services**.  
-My interests live around Machine Learning, distributed systems, and IoT devices that talk to each other.
-If it's data-driven, automation-heavy, or performance critical, I'm probably experimenting with it.
+I'm Senior Frontend Engineer with 7+ years of experience crafting scalable, high-performance web applications using React, Next.js, Vue, and TypeScript.
+
+I specialize in building robust frontend architectures, reusable component systems, and optimized user experiences that directly impact business outcomes.
+
+Experienced in working across the full stack and DevOps workflows, I bridge frontend and backend systems to deliver secure, maintainable, and production-ready solutions.
+
+Known for improving performance, accessibility, and usability while driving clean code standards and engineering best practices.
+
+I take ownership of products end to-end and focus on turning complex ideas into polished digital experiences.
 <br><br>
 
 <details>
-
-  <summary><strong>Some things I am trying to be better at 🔧</strong></summary>
-
-  <br>
-  
- -Building stronger focus and productivity habits to level up my work quality.
-
-</details>
-
-<hr>
-
-<details>
-  
-  <summary><strong>I have knowledge in these languages and tools 🧠</strong></summary>
 
   <br>
 
