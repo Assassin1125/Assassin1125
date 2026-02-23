@@ -15,8 +15,6 @@ Known for improving performance, accessibility, and usability while driving clea
 I take ownership of products end to-end and focus on turning complex ideas into polished digital experiences.
 <br><br>
 
-<details>
-
   <br>
 
 <table>
@@ -58,8 +56,6 @@ I take ownership of products end to-end and focus on turning complex ideas into 
     </td>
   </tr>
 </table>
-
-</details>
 
 <hr>
 <br><br>
