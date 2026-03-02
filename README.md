@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Assassin1125
+# 👋 Hi, I’m Adrian Nowak
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=3E8AFF&width=435&lines=Frontend+Developer+|+Next.js+•+React+•+Typescript+|+Clean+UI+Performance+•+SEO)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=3E8AFF&width=500&lines=Frontend+Developer+|+Next.js+•+React+•+Typescript+|+Clean+UI+Performance+•+SEO)](https://git.io/typing-svg)
 
 <br><br>
 
