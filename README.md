@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=3E8AFF&width=800&lines=Frontend+Developer+|+Next.js+•+React+•+Typescript+|+Clean+UI+Performance+•+SEO)](https://git.io/typing-svg)
 
-<br><br>
 
 I'm Senior Frontend Engineer with 7+ years of experience crafting scalable, high-performance web applications using React, Next.js, Vue, and TypeScript.
 
