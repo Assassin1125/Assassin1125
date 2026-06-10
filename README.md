@@ -3,7 +3,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=3E8AFF&width=800&lines=Frontend+Developer+|+Next.js+•+React+•+Typescript+|+Clean+UI+Performance+•+SEO)](https://git.io/typing-svg) -->
 
 
-I'm Senior AI Full stack  Engineer with 9+ years of experience crafting scalable, high-performance web applications.
+I'm Senior AI Full stack  Engineer with 7+ years of experience crafting scalable, high-performance web applications.
 I specialize in building robust frontend architectures, reusable component systems, and optimized user experiences that directly impact business outcomes.
 
 Experienced in working across the full stack and DevOps workflows, I bridge frontend and backend systems to deliver secure, maintainable, and production-ready solutions.
